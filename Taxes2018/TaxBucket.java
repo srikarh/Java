@@ -11,6 +11,5 @@ public TaxBucket(double lowAmt, double highAmt, double minTaxAmt, double taxRate
 	this.highAmt = highAmt;
 	this.minTaxAmt = minTaxAmt;
 	this.taxRate = taxRate;
-	
 }
 }
